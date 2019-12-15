@@ -1,7 +1,7 @@
 # README  
 
 ## Description(まとめ)  
-Rspecの練習用に作成したアンケートアプリです。  
+Rspecのテストコード練習用に作成したアンケートアプリです。  
 
 
 ## Features（機能一覧）  
